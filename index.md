@@ -31,7 +31,7 @@ _So how do I join?_
 
 `Are you joining from a computer or a smartphone?`
 ### Desktop
-1. Click [here to start](https://matrix.to/#/#los-angeles:arcesia.net).
+1. Click [here to start](https://matrix.to/#/#los-angeles:arcesia.net). (You might want to right click and "Open in a new tab" so you can follow along with these instructions.)
 2. Hit the blue "Continue".
 3. Click the blue "Continue" under "Element", then "Continue in your browser".
 4. Wait a moment for the app to load, then click the bottom right "Sign up". (If you have your own Matrix account, click the "Sign in" to the left of it.)
@@ -40,31 +40,21 @@ _So how do I join?_
 7. Check the box next to "Terms and Conditions" and hit "Accept".
 8. Under "Welcome (your username)" you'll see three boxes. Click the middle box (the one with a compass that says "Explore public rooms").
 9. Type `#los-angeles:arcesia.net` into the search box. You should see a gray "Join" at the right of the search box. Click it and you're in!
+### Mobile
+1. Tap [here to start](https://matrix.to/#/#los-angeles:arcesia.net). (You might want to long press and tap "Open in a new tab" so you can follow along with these instructions.)
+2. Download Element (or open it if you already have it).
+3. Follow steps 4-7 for Desktop.
+4. On the bottom right of your screen there will be a green circle reading "#+". 
+5. Type `#los-angeles:arcesia.net` into the search box. A green button saying "Join" will pop up from the bottom. Tap it and you're in!
 
-```markdown
-Syntax highlighted code block
+## Our Friends
+_I don't live in SoCal..._
 
-# Header 1
-## Header 2
-### Header 3
+`That's alright! We have two other groups at the moment...`
 
-- Bulleted
-- List
+- bostanon: #boston:arcesia.net
+- seanons: #seattle:arcesia.net
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Quintuplicate/socalain/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+The instructions for joining these are the same as for joining LAin, just with a different channel name!
+_I don't live in any of those places..._
+`That's fine as well! Just contact me at @quintuplicate:arcesia.net and I'll help you set a group up!`
