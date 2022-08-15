@@ -56,5 +56,6 @@ _I don't live in SoCal..._
 - seanons: #seattle:arcesia.net
 
 The instructions for joining these are the same as for joining LAin, just with a different channel name!
+
 _I don't live in any of those places..._
 `That's fine as well! Just contact me at @quintuplicate:arcesia.net and I'll help you set a group up!`
