@@ -54,6 +54,7 @@ _I don't live in SoCal..._
 
 - bostanon: #boston:arcesia.net
 - seanons: #seattle:arcesia.net
+- lain-IDF: #paris:arcesia.net
 
 The instructions for joining these are the same as for joining LAin, just with a different channel name!
 
