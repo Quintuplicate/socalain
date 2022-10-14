@@ -40,12 +40,14 @@ _So how do I join?_
 7. Check the box next to "Terms and Conditions" and hit "Accept".
 8. Under "Welcome (your username)" you'll see three boxes. Click the middle box (the one with a compass that says "Explore public rooms").
 9. Type `#los-angeles:arcesia.net` into the search box. You should see a gray "Join" at the right of the search box. Click it and you're in!
+
 ### Mobile
 1. Tap [here to start](https://matrix.to/#/#los-angeles:arcesia.net). (You might want to long press and tap "Open in a new tab" so you can follow along with these instructions.)
 2. Download Element (or open it if you already have it).
 3. Follow steps 4-7 for Desktop.
-4. On the bottom right of your screen there will be a green circle reading "#+". 
-5. Type `#los-angeles:arcesia.net` into the search box. A green button saying "Join" will pop up from the bottom. Tap it and you're in!
+4. On the bottom right of your screen there will be a green box with a picture of a pen writing on a surface.
+5. Tap it and choose the lowest option, "Explore Rooms".
+7. Type `#los-angeles:arcesia.net` into the search box up top. A green button saying "JOIN ROOM" will pop up from the bottom. Tap it and you're in!
 
 ## Our Friends
 _I don't live in SoCal..._
