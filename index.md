@@ -8,6 +8,8 @@ Southern California's _lain_ Site
 
 Welcome to LAin, the meetup group for Southern California Lain fans!
 
+NEXT MEETUP: Anime Los Angeles, January 7-8, 2023
+
 We have:
 - A [chatroom](https://matrix.to/#/#los-angeles:arcesia.net) where you can hang out with local Lains (**see below to learn how to join**)
 - Meetups at local anime conventions
