@@ -54,13 +54,14 @@ _So how do I join?_
 ## Our Friends
 _I don't live in SoCal..._
 
-`That's alright! We have five other groups at the moment...`
+`That's alright! We have six other groups at the moment...`
 
 - bostanon: #boston:arcesia.net
 - seanons: #seattle:arcesia.net
 - lain-IDF: #paris:arcesia.net
 - Spain Lainchan group: #madrid:arcesia.net
 - laiNM: #albuquerque:arcesia.net
+- Lain Area: #san-jose:arcesia.net
 
 The instructions for joining these are the same as for joining LAin, just with a different channel name!
 
