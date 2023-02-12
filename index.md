@@ -8,8 +8,6 @@ Southern California's _lain_ Site
 
 Welcome to LAin, the meetup group for Southern California Lain fans!
 
-NEXT MEETUP: Anime Los Angeles, January 7-8, 2023
-
 We have:
 - A [chatroom](https://matrix.to/#/#los-angeles:arcesia.net) where you can hang out with local Lains (**see below to learn how to join**)
 - Meetups at local anime conventions
@@ -54,14 +52,15 @@ _So how do I join?_
 ## Our Friends
 _I don't live in SoCal..._
 
-`That's alright! We have six other groups at the moment...`
+`That's alright! We have many other groups at the moment...`
 
 - bostanon: #boston:arcesia.net
 - seanons: #seattle:arcesia.net
 - lain-IDF: #paris:arcesia.net
 - Spain Lainchan group: #madrid:arcesia.net
-- laiNM: #albuquerque:arcesia.net
 - Lain Area: #san-jose:arcesia.net
+- london meetup: #london:arcesia.net
+- LainUAE: #dubai:arcesia.net
 
 The instructions for joining these are the same as for joining LAin, just with a different channel name!
 
